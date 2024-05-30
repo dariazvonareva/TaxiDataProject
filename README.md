@@ -76,5 +76,6 @@
 - Выводы по каждому этапу оформляются в формате Markdown в отдельной ячейке.
 
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](ttps://github.com/dariazvonareva/TaxiDataProject/blob/main/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/TaxiDataProject/blob/main/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+
 :arrow_up:[к оглавлению](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md.md#Оглавление)
