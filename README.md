@@ -1,20 +1,20 @@
 # Построение модели, предсказывающая длительность поездки на такси в Нью-Йорке
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/TaxiDataProject.git.git/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/dariazvonareva/TaxiDataProject.git.blob/main/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Описание-проекта)
 
-[3. Краткая информация о данных](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/README.md#Описание-проекта)
+[3. Краткая информация о данных](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Описание-проекта)
 
-[4. Этапы проекта](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/README.md#Этапы-проекта)
+[4. Этапы проекта](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Этапы-проекта)
 
-[5. Результаты](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/README.md#Результаты)
+[5. Результаты](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Результаты)
 
 ### Описание проекта
 
 Решаем задачу машинного обучения, направленную на автоматизацию бизнес-процессов. Построим модель, которая будет предсказывать общую продолжительность поездки на такси в Нью-Йорке.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем
 
@@ -76,5 +76,5 @@
 - Выводы по каждому этапу оформляются в формате Markdown в отдельной ячейке.
 
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/Project-5._Ноутбук-шаблон.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/TaxiDataProject.git/blob/main/README.md#Оглавление)
+[Ноутбук с выполненными заданиями и выводами](ttps://github.com/dariazvonareva/TaxiDataProject/blob/main/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/TaxiDataProject/blob/main/README.md.md#Оглавление)
